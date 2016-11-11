@@ -1,6 +1,6 @@
 # Overtime App
 
-## REQUIREMENTS: Company needs documentation declaring if esalary emplyees did or did not use overtime each week.
+## REQUIREMENTS: Company needs documentation declaring if salary employees did or did not use overtime each week.
 
 ## Models
 	-Post -> 
@@ -16,3 +16,4 @@
 
 ## UI:
 	-Bootstrap -> formatting
+:D
